@@ -1,4 +1,4 @@
-import type { Company, Candidate, CandidateStatus } from './types';
+import type { Company, Candidate, CandidateStatus } from '../types';
 
 const COMPANIES_KEY = 'cf_companies';
 const CANDIDATES_KEY = 'cf_candidates';
